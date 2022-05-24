@@ -1,2 +1,2 @@
 [workspace]
-members = ["three-and-a-bit", "non-standard-input"]
+members = ["three-and-a-bit", "non-standard-input", "type-conversion"]
