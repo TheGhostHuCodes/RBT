@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "byte-sized-chunks"
+version = "0.1.0"
+
+[[package]]
 name = "non-standard-input"
 version = "0.1.0"
 
