@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "non-standard-input"
+version = "0.1.0"
+
+[[package]]
 name = "three-and-a-bit"
 version = "0.1.0"
