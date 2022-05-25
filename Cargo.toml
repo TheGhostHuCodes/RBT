@@ -4,4 +4,5 @@ members = [
     "non-standard-input",
     "type-conversion",
     "byte-sized-chunks",
+    "how-long-is-a-string",
 ]
