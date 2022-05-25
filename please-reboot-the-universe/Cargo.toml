@@ -1,0 +1,6 @@
+[package]
+name = "please-reboot-the-universe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

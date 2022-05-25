@@ -5,4 +5,5 @@ members = [
     "type-conversion",
     "byte-sized-chunks",
     "how-long-is-a-string",
+    "please-reboot-the-universe",
 ]
