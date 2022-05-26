@@ -37,3 +37,7 @@ version = "0.1.0"
 [[package]]
 name = "walks-like-a-duck"
 version = "0.1.0"
+
+[[package]]
+name = "x-marks-the-spot"
+version = "0.1.0"
