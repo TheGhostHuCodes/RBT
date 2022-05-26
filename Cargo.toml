@@ -13,4 +13,5 @@ members = [
     "stacking-boxes",
     "amnesia",
     "reverse-the-polarity",
+    "structure-sizing",
 ]

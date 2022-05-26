@@ -35,6 +35,10 @@ name = "stacking-boxes"
 version = "0.1.0"
 
 [[package]]
+name = "structure-sizing"
+version = "0.1.0"
+
+[[package]]
 name = "there-and-back-again"
 version = "0.1.0"
 
