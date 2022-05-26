@@ -10,4 +10,5 @@ members = [
     "walks-like-a-duck",
     "out-of-order",
     "x-marks-the-spot",
+    "stacking-boxes",
 ]
