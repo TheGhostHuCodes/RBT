@@ -29,3 +29,7 @@ version = "0.1.0"
 [[package]]
 name = "type-conversion"
 version = "0.1.0"
+
+[[package]]
+name = "walks-like-a-duck"
+version = "0.1.0"
