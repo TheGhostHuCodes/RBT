@@ -47,6 +47,10 @@ name = "three-and-a-bit"
 version = "0.1.0"
 
 [[package]]
+name = "to-infinity"
+version = "0.1.0"
+
+[[package]]
 name = "type-conversion"
 version = "0.1.0"
 
