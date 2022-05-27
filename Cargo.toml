@@ -23,4 +23,5 @@ members = [
     "tying-a-gordian-knot",
     "waiting-for-godot",
     "constant-loops",
+    "home-on-the-range",
 ]
