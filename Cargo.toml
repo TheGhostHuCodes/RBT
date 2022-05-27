@@ -20,4 +20,5 @@ members = [
     "mutable-immutables",
     "sleepless-in-tokio",
     "hello-bonjour",
+    "tying-a-gordian-knot",
 ]
