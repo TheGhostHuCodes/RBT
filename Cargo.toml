@@ -21,4 +21,5 @@ members = [
     "sleepless-in-tokio",
     "hello-bonjour",
     "tying-a-gordian-knot",
+    "waiting-for-godot",
 ]
