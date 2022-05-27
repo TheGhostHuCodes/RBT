@@ -15,4 +15,5 @@ members = [
     "reverse-the-polarity",
     "structure-sizing",
     "to-infinity",
+    "double-or-nothing",
 ]
