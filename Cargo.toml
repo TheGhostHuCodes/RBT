@@ -18,4 +18,5 @@ members = [
     "double-or-nothing",
     "how-long-is-a-vector",
     "mutable-immutables",
+    "sleepless-in-tokio",
 ]
