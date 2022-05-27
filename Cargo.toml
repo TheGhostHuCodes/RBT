@@ -22,4 +22,5 @@ members = [
     "hello-bonjour",
     "tying-a-gordian-knot",
     "waiting-for-godot",
+    "constant-loops",
 ]
