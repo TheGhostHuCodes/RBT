@@ -23,6 +23,10 @@ name = "how-long-is-a-vector"
 version = "0.1.0"
 
 [[package]]
+name = "mutable-immutables"
+version = "0.1.0"
+
+[[package]]
 name = "non-standard-input"
 version = "0.1.0"
 

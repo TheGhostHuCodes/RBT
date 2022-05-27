@@ -17,4 +17,5 @@ members = [
     "to-infinity",
     "double-or-nothing",
     "how-long-is-a-vector",
+    "mutable-immutables",
 ]
