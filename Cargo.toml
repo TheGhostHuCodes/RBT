@@ -16,4 +16,5 @@ members = [
     "structure-sizing",
     "to-infinity",
     "double-or-nothing",
+    "how-long-is-a-vector",
 ]

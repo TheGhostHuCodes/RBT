@@ -19,6 +19,10 @@ name = "how-long-is-a-string"
 version = "0.1.0"
 
 [[package]]
+name = "how-long-is-a-vector"
+version = "0.1.0"
+
+[[package]]
 name = "non-standard-input"
 version = "0.1.0"
 
